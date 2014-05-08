@@ -1,0 +1,6668 @@
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line spacemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Parsing line imovablemodel
+Parser 	 Failed to find geometry line geometry
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	laser.obj
+	Name:	objmodel
+	Faces:	8
+	Verts:	6
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	12.2577
+	Center:	 [0 -2.5 5.60519e-044]
+	Min:	 [-12 -5 1.10703e-043]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	12.2577
+	Center:	 [0 -2.5 5.60519e-044]
+	Min:	 [-12 -5 1.10703e-043]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	12.2577
+	Center:	 [0 -2.5 5.60519e-044]
+	Min:	 [-12 -5 1.10703e-043]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	12.2577
+	Center:	 [0 -2.5 5.60519e-044]
+	Min:	 [-12 -5 1.10703e-043]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	12.2577
+	Center:	 [0 -2.5 5.60519e-044]
+	Min:	 [-12 -5 1.10703e-043]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	12.2577
+	Center:	 [0 -2.5 5.60519e-044]
+	Min:	 [-12 -5 1.10703e-043]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	12.2577
+	Center:	 [0 -2.5 5.60519e-044]
+	Min:	 [-12 -5 1.10703e-043]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	ball
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	asteroid
+	Faces:	112
+	Verts:	58
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	floor
+	Faces:	0
+	Verts:	0
+	Radius:	14.5344
+	Center:	 [0 -6.5 0]
+	Min:	 [12 0 5]
+	Max:	 [-12 -13 -5]
+
+Type:	ObjGeometry
+	Path:	
+	Name:	land
+	Faces:	0
+	Verts:	0
+	Radius:	5.36871e+007
+	Center:	 [0 -2.5 -5.36871e+007]
+	Min:	 [-12 -5 -1.07374e+008]
+	Max:	 [12 0 0]
+
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line spacemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Parsing line imovablemodel
+Parser 	 Finnished with file: mainlevel.txt
+
+Type:	ShipGeometry
+	Path:	ship.obj
+	Faces:	212
+	Verts:	112
+	Radius:	0
+	Center:	 [0 0 0]
+	Min:	 [0 0 0]
+	Max:	 [0 0 0]
+
+Type:	ObjGeometry
+	Path:	ball.obj
+	Name:	objmodel
+	Faces:	112
+	Verts:	58
+	Radius:	1.73205
+	Center:	 [0 0 0]
+	Min:	 [-1 -1 -1]
+	Max:	 [1 1 1]
+

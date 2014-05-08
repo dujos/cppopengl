@@ -1,0 +1,436 @@
+{
+    objgeometry
+    name ball
+    bs sphere
+    path ball.obj
+}
+
+{
+    objgeometry
+    name asteroid
+    bs sphere
+    path ball.obj
+}
+
+{
+    objgeometry
+    name floor
+    boundingbox -12 -13 -5 12 0 5
+}
+
+{
+    objgeometry
+    name land
+    boundingbox 12 0 0 -12  -5
+    path land.obj
+}
+
+{
+    spacemodel
+    geometry floor
+    scale 81.0 1 1
+    rotate 0 90 0
+    translate 0 -2 0 
+}
+
+{
+    wall
+    type left
+    move -5
+}
+
+{
+    wall
+    type right
+    move 5  
+}
+
+{
+    wall
+    type top
+    move 10
+}
+
+{
+    wall
+    type bottom
+    move -10 
+}
+
+{
+    wall
+    type front
+    move 0   
+}
+
+{
+    wall
+    type back
+    move -20
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 0 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -5 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -10 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -15 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -20 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -25 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -30 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -35 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -40 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -45 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -50 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -55 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -60 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -65 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -70 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -75 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -80 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -85 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -90 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -95 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -100 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -105 
+    color 0.7 0.4 0.4
+}
+
+{
+    imovablemodel
+    geometry ball
+    scale 0.13 0.13 0.13
+    translate -0.932723409053664 0.676648206304879 -6.98254177765264
+    color 0.283728458705422 0.795589523604732 0.303565058805068
+}
+
+{
+    imovablemodel
+    geometry ball
+    scale 0.05 0.05 0.05
+    translate 0 0 -7.5900279865803
+    color 0.584684181373371 0.232831982688879 0.45146462341868
+}
+
+{
+    imovablemodel
+    geometry ball
+    scale 0.1 0.1 0.1
+    translate -1.06969464641497 0.525964333024784 -13.2744183951765
+    color 0.764783759706235 0.575794347894703 0.51113851910234
+}
+
+{
+    imovablemodel
+    geometry ball
+    scale 0.05 0.05 0.05
+    translate 0 0 -16.8874522895548
+    color 0.235809118496683 0.442082316128314 0.222939686742447
+}
+
+{
+    imovablemodel
+    geometry ball
+    scale 0.05 0.05 0.05
+    translate 0.793630434766398 0.250432168661925 -18.0828513630407
+    color 0.0717443307817742 0.299346368505033 0.988838132346778
+}
+
+{
+    imovablemodel
+    geometry ball
+    scale 0.05 0.05 0.05
+    translate -0.742762882092054 -0.554339871231232 -20.697016805056
+    color 0.324976483749027 0.797256340243918 0.427363090528457
+}
+
+{
+    imovablemodel
+    geometry ball
+    scale 0.1 0.1 0.1
+    translate -0.944880049999296 -0.178350014606621 -22.8197415827426
+    color 0.589782432070539 0.38961684278829 0.487947410976793
+}
+
+{
+    imovablemodel
+    geometry ball
+    scale 0.02 0.02 0.02
+    translate 0.832608716249765 -0.202412725111799 -24.5006640703361
+    color 0.411917429145971 0.776770238534214 0.145582625530165
+}
+
+{
+    imovablemodel
+    geometry ball
+    scale 0.1 0.1 0.1
+    translate -0.970210992036872 -0.465809063814148 -26.1144686770124
+    color 0.234214274384879 0.793272964743089 0.84488890981119
+}
+
+{
+    imovablemodel
+    geometry ball
+    scale 0.02 0.02 0.02
+    translate 1.27730984379988 -0.0975739314568924 -30.4660009122801
+    color 0.612176434629797 0.11421284706366 0.64573013058222
+}
+
+{
+    imovablemodel
+    geometry ball
+    scale 0.02 0.02 0.02
+    translate -1.08875583893897 0.0138883161144417 -32.6693635310258
+    color 0.779357104207001 0.886651357533839 0.516831038109783
+}
+
+{
+    imovablemodel
+    geometry ball
+    scale 0.02 0.02 0.02
+    translate -1.32641204328361 -0.15883985797429 -43.3317683468057
+    color 0.548282531914541 0.206291569656781 0.124668852364064
+}
+
+{
+    imovablemodel
+    geometry ball
+    scale 0.05 0.05 0.05
+    translate 1.38524029854747 0.130041598108165 -46.1745017955499
+    color 0.818914779603362 0.306475594413878 0.0357663991346082
+}
+
+{
+    imovablemodel
+    geometry ball
+    scale 0.05 0.05 0.05
+    translate 0.174633979763018 -0.0484605688267465 -48.7223078068166
+    color 0.288362651483932 0.819857291443481 0.904143335567687
+}
+
+{
+    imovablemodel
+    geometry ball
+    scale 0.13 0.13 0.13
+    translate 1.29026343640495 -0.778943267973625 -58.6095449878536
+    color 0.267025873909171 0.447901112673409 0.437857522494922
+}
+
+{
+    imovablemodel
+    geometry ball
+    scale 0.05 0.05 0.05
+    translate -1.48482246861362 0.134399845283338 -61.6589356768627
+    color 0.718265379048122 0.503119086896873 0.751699478786953
+}
+
+{
+    imovablemodel
+    geometry ball
+    scale 0.05 0.05 0.05
+    translate 0.637956434614173 -0.170011470834096 -66.4022342023324
+    color 0.479337821414879 0.127224296080738 0.844651547188229
+}
+
+{
+    imovablemodel
+    geometry ball
+    scale 0.13 0.13 0.13
+    translate -0.9205278627752 0.703511983912651 -70.5143245054501
+    color 0.0591670145433206 0.556015789794835 0.707735440803617
+}
+
+{
+    imovablemodel
+    geometry ball
+    scale 0.05 0.05 0.05
+    translate 0.459675883098344 -0.404227205996964 -70.5762925451821
+    color 0.458749952382259 0.347145535181443 0.212897660606424
+}
+
+{
+    imovablemodel
+    geometry ball
+    scale 0.05 0.05 0.05
+    translate 0.794709283964437 0.404684961077795 -72.232447405491
+    color 0.949469813228884 0.858844595339691 0.0511004540423848
+}
+
+{
+    imovablemodel
+    geometry ball
+    scale 0.05 0.05 0.05
+    translate 0.555845699193718 0.110973217651116 -74.2306253080603
+    color 0.48011331820702 0.532939395441165 0.514340897901975
+}

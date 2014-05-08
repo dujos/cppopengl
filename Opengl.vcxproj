@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{CA9BEF9E-E26E-450D-ADCC-D2D709D5DA50}</ProjectGuid>
+    <RootNamespace>Opengl</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <IncludePath>C:\Users\dujo\Documents\Visual Studio 2010\Projects\Opengl\Opengl\glut\include;C:\Users\dujo\Documents\Visual Studio 2010\Projects\Opengl\Opengl\GLEW\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\dujo\Documents\Visual Studio 2010\Projects\Opengl\Opengl\glut\lib;C:\Users\dujo\Documents\Visual Studio 2010\Projects\Opengl\Opengl\GLEW\lib;$(LibraryPath)</LibraryPath>
+    <SourcePath>C:\Users\dujo\Documents\Visual Studio 2010\Projects\Opengl\Opengl\EIGEN;C:\Users\dujo\Documents\Visual Studio 2010\Projects\Opengl\Opengl\kdtree;C:\Users\dujo\Documents\Visual Studio 2010\Projects\Opengl\Opengl\SOIL;$(SourcePath)</SourcePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <IncludePath>C:\Users\dujo\Documents\Visual Studio 2010\Projects\Opengl\Opengl\glut\include;C:\Users\dujo\Documents\Visual Studio 2010\Projects\Opengl\Opengl\GLEW\include;$(IncludePath)</IncludePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LibraryPath>C:\Users\dujo\Documents\Visual Studio 2010\Projects\Opengl\Opengl\glut\lib;C:\Users\dujo\Documents\Visual Studio 2010\Projects\Opengl\Opengl\GLEW\lib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <SourcePath>C:\Users\dujo\Documents\Visual Studio 2010\Projects\Opengl\Opengl\EIGEN;C:\Users\dujo\Documents\Visual Studio 2010\Projects\Opengl\Opengl\kdtree;C:\Users\dujo\Documents\Visual Studio 2010\Projects\Opengl\Opengl\SOIL;$(SourcePath)</SourcePath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>C:\Users\dujo\Documents\Visual Studio 2010\Projects\Opengl\Opengl\EIGEN;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>C:\Users\dujo\Documents\Visual Studio 2010\Projects\Opengl\Opengl\EIGEN;C:\Users\dujo\Documents\Visual Studio 2010\Projects\Opengl\Opengl\SOIL;C:\Users\dujo\Documents\Visual Studio 2010\Projects\Opengl\Opengl\kdtree;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <SubSystem>Console</SubSystem>
+      <AdditionalDependencies>glew32.lib;glut32.lib</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <AdditionalIncludeDirectories>C:\Users\dujo\Documents\Visual Studio 2010\Projects\Opengl\Opengl\EIGEN;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalLibraryDirectories>C:\Users\dujo\Documents\Visual Studio 2010\Projects\Opengl\Opengl\EIGEN;C:\Users\dujo\Documents\Visual Studio 2010\Projects\Opengl\Opengl\SOIL;C:\Users\dujo\Documents\Visual Studio 2010\Projects\Opengl\Opengl\kdtree;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <SubSystem>Console</SubSystem>
+      <AdditionalDependencies>glew32.lib;glut32.lib</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\..\Desktop\opengl\AbstractModel.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\opengl\Ball.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\opengl\Bomb.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\opengl\BoundingBox.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\opengl\BoundingSphere.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\opengl\BoundingSpheres.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\opengl\Box.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\opengl\Explosion.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\opengl\Game.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\opengl\Geometry.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\opengl\ImovableModel.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\opengl\kdtree.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\opengl\Laser.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\opengl\Level.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\opengl\Log.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\opengl\main.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\opengl\Math.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\opengl\Missile.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\opengl\Model.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\opengl\MovableModel.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\opengl\ObjectGeometry.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\opengl\Parser.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\opengl\Plane.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\opengl\Planet.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\opengl\Ship.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\opengl\ShipGeometry.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\opengl\SpaceModel.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\opengl\TerrainModel.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\opengl\Wall.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\..\Desktop\opengl\AbstractModel.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\opengl\Ball.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\opengl\Bomb.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\opengl\BoundingBox.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\opengl\BoundingShape.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\opengl\BoundingSphere.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\opengl\BoundingSpheres.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\opengl\Box.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\opengl\Constants.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\opengl\Containers.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\opengl\Explosion.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\opengl\Game.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\opengl\Geometry.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\opengl\ImovableModel.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\opengl\kdtree.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\opengl\Laser.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\opengl\Level.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\opengl\Log.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\opengl\Math.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\opengl\Missile.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\opengl\Model.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\opengl\MovableModel.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\opengl\ObjectGeometry.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\opengl\Parser.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\opengl\Plane.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\opengl\Planet.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\opengl\Ship.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\opengl\ShipGeometry.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\opengl\SpaceModel.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\opengl\TerrainModel.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\opengl\Time.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\opengl\Util.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\opengl\Wall.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

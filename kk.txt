@@ -1,0 +1,235 @@
+#geometry
+
+{
+    objgeometry
+    name ball
+    bs sphere
+    path ball.obj
+}
+
+{
+    objgeometry
+    name asteroid
+    bs sphere
+    path ball.obj
+}
+
+{
+    objgeometry
+    name floor
+    boundingbox -12 -13 -5 12 0 5
+}
+
+{
+    objgeometry
+    name land
+    boundingbox 12 0 0 -12  -5
+    path land.obj
+}
+
+{
+    spacemodel
+    geometry floor
+    scale 81.0 1 1
+    rotate 0 90 0
+    translate 0 -2 0 
+}
+
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 0 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -5 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -10 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -15 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -20 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -25 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -30 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -35 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -40 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -45 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -50 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -55 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -60 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -65 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -70 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -75 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -80 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -85 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -90 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -95 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -100 
+    color 0.7 0.4 0.4
+}
+
+{
+    spacemodel
+    geometry land
+    scale 1 1 1
+    rotate 0 90 0
+    translate 0 -2 -105 
+    color 0.7 0.4 0.4
+}
